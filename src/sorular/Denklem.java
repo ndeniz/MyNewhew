@@ -9,6 +9,7 @@ System.out.println("x : " + x + " - y : " + y);
 }
 }
 }
+// this is static
 public static int findY(int x) {
 int y = ( (x*x*x) - (6*x*x) + (9*x) ) / 2;
 return y;
