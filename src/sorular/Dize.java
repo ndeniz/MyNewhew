@@ -1,6 +1,7 @@
 package sorular;
 
 	import java.util.Random;
+//this is my secodn changee
 
 
 	import java.util.Scanner;
@@ -79,4 +80,4 @@ package sorular;
 	}
 
 
-
+//this is check with mert
