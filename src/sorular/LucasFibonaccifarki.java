@@ -1,5 +1,5 @@
 package sorular;
-
+// Lucas da degisiklik yaptim
 import java.util.Scanner;
 public class LucasFibonaccifarki {
 public static void main(String[] args) {
